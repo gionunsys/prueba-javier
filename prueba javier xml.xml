@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <Image1>https://b264-185-9-193-18.ngrok-free.app/api/slots/0/image</Image1>
+        <Image2>https://b264-185-9-193-18.ngrok-free.app/api/slots/1/image</Image2>
+        <Image3>https://b264-185-9-193-18.ngrok-free.app/api/slots/2/image</Image3>
+        <Image4>https://b264-185-9-193-18.ngrok-free.app/api/slots/3/image</Image4>
+        <Image5>https://b264-185-9-193-18.ngrok-free.app/api/slots/4/image</Image5>
+        <Image6>https://b264-185-9-193-18.ngrok-free.app/api/slots/5/image</Image6>
+        <Image7>https://b264-185-9-193-18.ngrok-free.app/api/slots/6/image</Image7>
+        <Image8>https://b264-185-9-193-18.ngrok-free.app/api/slots/7/image</Image8>
+        <Image9>https://b264-185-9-193-18.ngrok-free.app/api/slots/8/image</Image9>
+        <Image10>https://b264-185-9-193-18.ngrok-free.app/api/slots/9/image</Image10>
+    </row>
+</root>
