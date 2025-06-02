@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
     <row>
-        <Image1>http://10.243.31.19:1337/api/slots/0/image</Image1>
-        <Image2>http://10.243.31.19:1337/api/slots/0/image</Image2>
-        <Image3>http://10.243.31.19:1337/api/slots/0/image</Image3>
-        <Image4>http://10.243.31.19:1337/api/slots/0/image</Image4>
-        <Image5>http://10.243.31.19:1337/api/slots/0/image</Image5>
-        <Image6>http://10.243.31.19:1337/api/slots/0/image</Image6>
-        <Image7>http://10.243.31.19:1337/api/slots/0/image</Image7>
-        <Image8>http://10.243.31.19:1337/api/slots/0/image</Image8>
-        <Image9>http://10.243.31.19:1337/api/slots/0/image</Image9>
-        <Image10>http://10.243.31.19:1337/api/slots/0/image</Image10>
+        <Image1>http://10.243.31.19:1337/api/slots/1/image</Image1>
+        <Image2>http://10.243.31.19:1337/api/slots/1/image</Image2>
+        <Image3>http://10.243.31.19:1337/api/slots/1/image</Image3>
+        <Image4>http://10.243.31.19:1337/api/slots/1/image</Image4>
+        <Image5>http://10.243.31.19:1337/api/slots/1/image</Image5>
+        <Image6>http://10.243.31.19:1337/api/slots/1/image</Image6>
+        <Image7>http://10.243.31.19:1337/api/slots/1/image</Image7>
+        <Image8>http://10.243.31.19:1337/api/slots/1/image</Image8>
+        <Image9>http://10.243.31.19:1337/api/slots/1/image</Image9>
+        <Image10>http://10.243.31.19:1337/api/slots/1/image</Image10>
     </row>
 </root>
