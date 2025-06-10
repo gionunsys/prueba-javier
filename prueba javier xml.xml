@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
     <row>
-        <Image1>http://10.243.31.19:1337/api/slots/0/image</Image1>
-        <Image2>http://10.243.31.19:1337/api/slots/1/image</Image2>
-        <Image3>http://10.243.31.19:1337/api/slots/2/image</Image3>
-        <Image4>http://10.243.31.19:1337/api/slots/3/image</Image4>
-        <Image5>http://10.243.31.19:1337/api/slots/4/image</Image5>
-        <Image6>http://10.243.31.19:1337/api/slots/5/image</Image6>
-        <Image7>http://10.243.31.19:1337/api/slots/6/image</Image7>
-        <Image8>http://10.243.31.19:1337/api/slots/7/image</Image8>
-        <Image9>http://10.243.31.19:1337/api/slots/8/image</Image9>
-        <Image10>http://10.243.31.19:1337/api/slots/9/image</Image10>
+        <Image1>https://central-barnacle-actively.ngrok-free.app/api/slots/0/image</Image1>
+        <Image2>https://central-barnacle-actively.ngrok-free.app/api/slots/1/image</Image2>
+        <Image3>https://central-barnacle-actively.ngrok-free.app/api/slots/2/image</Image3>
+        <Image4>https://central-barnacle-actively.ngrok-free.app/api/slots/3/image</Image4>
+        <Image5>https://central-barnacle-actively.ngrok-free.app/api/slots/4/image</Image5>
+        <Image6>https://central-barnacle-actively.ngrok-free.app/api/slots/5/image</Image6>
+        <Image7>https://central-barnacle-actively.ngrok-free.app/api/slots/6/image</Image7>
+        <Image8>https://central-barnacle-actively.ngrok-free.app/api/slots/7/image</Image8>
+        <Image9>https://central-barnacle-actively.ngrok-free.app/api/slots/8/image</Image9>
+        <Image10>https://central-barnacle-actively.ngrok-free.app/api/slots/9/image</Image10>
     </row>
 </root>
